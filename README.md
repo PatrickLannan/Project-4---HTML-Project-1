@@ -35,7 +35,7 @@
     </ol>
     <h2>Notes</h2>
     <p>You can season the bacon grilled cheese before or after you cook it to enhance the experience!</p>
-    <h1>Inspired By</h1>
+    <h2>Inspired By</h2>
     <p><a href="https://butterwithasideofbread.com/bacon-grilled-cheese"> Bacon Grilled Cheese</a></p>
 </body>
 </html>
